@@ -1,4 +1,6 @@
 Beschreibung des Projektes 
 
-Datenbank anbindung an Java
+Datenbank Anbindung an Java
+
+jpa : JAVA persistance API
 
