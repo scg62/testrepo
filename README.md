@@ -2,7 +2,7 @@
 
 ## Zweite Ordnung
 
-normaler Text
+Bei Vorhandensein einer readme.md wird in dxer Root des Repos wird diese direkt im Github angezeigt
 
 dies ist *kursiv*  die hier _auch_
 
