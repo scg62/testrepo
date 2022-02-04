@@ -1,0 +1,2 @@
+hier passiert die Java Verbindung,
+dann kann ein Projekt tatsächlich incl. Issue-Tracker über GitHub gehostet werden
