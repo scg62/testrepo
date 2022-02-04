@@ -1,6 +1,8 @@
 Beschreibung des Projektes 
 
+Git Masterclass 
+JAVA Masterclass
+PostgreSQL
+
 Datenbank Anbindung an Java
-
 jpa : JAVA persistance API
-
